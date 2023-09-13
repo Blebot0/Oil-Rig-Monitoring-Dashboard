@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tBVX2QBX6J2l8BwgPEOere1TYb/fBi4jyKtw7OuHzzM=",
+  "Source": "OilRigWebApi",
+  "BasePath": "_content/OilRigWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
